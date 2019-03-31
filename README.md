@@ -7,7 +7,9 @@ Stock wiring has the thermistor inputs swapped.  Bed thermistor is placed on TH1
 
 Source code for the binary is located here:
 [https://github.com/dot-bob/RepRapFirmware](https://github.com/dot-bob/RepRapFirmware)
+
 [https://github.com/dot-bob/CoreLPC4RRF](https://github.com/dot-bob/CoreLPC4RRF)
+
 [https://github.com/dot-bob/RRFLibraries](https://github.com/dot-bob/RRFLibraries)
 
 
